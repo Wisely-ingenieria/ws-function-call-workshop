@@ -1,3 +1,14 @@
+#############################################################
+################## HOW TO RUN THIS EXAMPLE ##################
+#############################################################
+
+# 1. Install the required libraries by running `pip install -r requirements.txt`
+# 2. Add the OpenAI API key to the `.env` file
+# 3. Run the script by running `streamlit run 03_function_call_chatbot.py`
+
+#############################################################
+#############################################################
+
 import streamlit as st
 import os
 import json
