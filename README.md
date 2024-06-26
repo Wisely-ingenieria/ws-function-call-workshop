@@ -9,8 +9,9 @@ Las variables de entorno en el archivo `.env` estan referenciados en `.env.refer
 | Variable de Entorno | Descripción |
 | --- | --- |
 | `OPENAI_API_KEY` | La clave de la API de OpenAI. |
-| `OPENAI_GPT35_MODEL` | El nombre del modelo GPT-3.5 de OpenAI utilizado para generar texto. |
-| `OPENAI_GPT4_MODEL` | El nombre del modelo GPT-4 de OpenAI utilizado para generar texto. |
+| `OPENAI_GPT35_MODEL` | El nombre del modelo GPT-3.5 de OpenAI |
+| `OPENAI_GPT4_MODEL` | El nombre del modelo GPT-4 de OpenAI |
+| `OPENAI_GPT4O_MODEL` | El nombre del modelo GPT-4o de OpenAI |
 
 ## Requisitos
 
