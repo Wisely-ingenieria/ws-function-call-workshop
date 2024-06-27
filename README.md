@@ -21,6 +21,7 @@ Para ejecutar los scripts de este proyecto, necesitarás:
 - Utilizar Python 3.10+.
 - Instalar las bibliotecas de Python 
 
-    `#! pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
 ## Link a presentación
+https://www.canva.com/design/DAGJQJ4GMMo/EjSrB-7rOXV6k4YREIvVjg/view?utm_content=DAGJQJ4GMMo&utm_campaign=designshare&utm_medium=link&utm_source=editor
